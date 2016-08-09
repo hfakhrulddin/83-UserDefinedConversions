@@ -1,0 +1,6 @@
+C:\Div\Origin\83-UserDefinedConversions\UDConversions\bin\Debug\UDConversions.exe.config
+C:\Div\Origin\83-UserDefinedConversions\UDConversions\bin\Debug\UDConversions.exe
+C:\Div\Origin\83-UserDefinedConversions\UDConversions\bin\Debug\UDConversions.pdb
+C:\Div\Origin\83-UserDefinedConversions\UDConversions\obj\Debug\UDConversions.csprojResolveAssemblyReference.cache
+C:\Div\Origin\83-UserDefinedConversions\UDConversions\obj\Debug\UDConversions.exe
+C:\Div\Origin\83-UserDefinedConversions\UDConversions\obj\Debug\UDConversions.pdb
